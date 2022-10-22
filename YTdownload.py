@@ -9,4 +9,4 @@ print("Views: ", yt.views)
 
 yd = yt.streams.get_highest_resolution() #this insures that the video will be downloaded in the highest resolution possible 
 
-yd.download('C:/Users/alcha/Videos/YoutubeDownloads')
+yd.download('enter folder path to download the video here')
